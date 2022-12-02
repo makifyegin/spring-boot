@@ -52,22 +52,22 @@ public class Customer {
         return age;
     }
 
-    public void setId() {
+    public void setId(Integer id) {
         this.id = id;
     }
 
-    public void setName() {
+    public void setName(String name) {
         this.name = name;
 
     }
 
-    public void setEmail() {
+    public void setEmail(String email) {
         this.email = email;
 
 
     }
 
-    public void setAge() {
+    public void setAge(Integer age) {
         this.age = age;
     }
 
